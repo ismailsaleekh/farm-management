@@ -51,3 +51,11 @@ The compiled JavaScript files will be in the `dist` directory. To start the prod
 ```sh
 node dist/server.js
 ```
+
+## Count Areas Task
+
+To run count areas script:
+
+```sh
+npm run areas
+```
