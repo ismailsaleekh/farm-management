@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node-dev src/server.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "areas": "node countAreas"
   },
   "keywords": [],
   "author": "",
